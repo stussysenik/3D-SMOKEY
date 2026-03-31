@@ -1,18 +1,19 @@
-<div align="center">
-
-# 3D Smokey
+# 3D-SMOKEY
 
 Coming soon page for "kidz still here, turned out fine" Phoresho collection
 
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-</div>
+
+## About
+
+✨ **Creative Coding / Graphics** built with Multi-language.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/stussysenik/3D-SMOKEY.git
-cd 3D-SMOKEY
-```
+*Built by [@stussysenik](https://github.com/stussysenik)*
